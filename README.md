@@ -12,15 +12,15 @@
     </li>
     <li>
       <a href="#links">Links</a>
-    <li><a href="#screenshot">Screenshot</a></li>
+    <li><a href="#screenshot">Screenshots</a></li>
   </ol>
 </details>
 
 ## About The Project
 
-This repository contains the code for a random password generator website. This website allows an employee with access to sensitive data, randomly generate a password that meets a certain criteria so that they can create a strong password that can provide them with greater security.
+This repository contains the code for a Javascript Coding Quiz. This website helps familiarize users with a quiz which allows them to use the skills covered in the activities of Web APIs.
 
-This generator enables employees to generate random passwords based on criteria that they've selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by Javascript code that has been written.
+This assignment requires to build a timed coding quiz with multiple-choice questions. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code that was written. It has a clean, polished, and responsive user interface.
 
 ## Built With
 
@@ -39,3 +39,5 @@ This generator enables employees to generate random passwords based on criteria 
 The following image shows the web application's appearance and functionality:
 
 ![Web Screenshot](./assets/images/screenshot.png)
+![Web Screenshot](./assets/images/screenshot1.png)
+![Web Screenshot](./assets/images/screenshot2.png)
